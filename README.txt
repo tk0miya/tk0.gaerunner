@@ -17,6 +17,7 @@ Setting up AppEngine
 --------------------
 
 Before executing `tk0.gaerunner`, you must set up development environments.
+
 * AppEngine SDK (google_appengine_1.x.x.zip)
 * Accept remote_api calls on your application
 
