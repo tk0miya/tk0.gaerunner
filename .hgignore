@@ -1,0 +1,11 @@
+.installed.cfg
+.pyc
+.swp
+bin
+build
+develop-eggs
+dist
+downloads
+eggs
+parts
+.*.egg-info
